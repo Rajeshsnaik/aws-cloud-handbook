@@ -1,4 +1,4 @@
-# ☁️ AWS Cloud Engineering Handbook
+# ☁️ AWS Cloud Handbook
 
 > **A production-focused AWS knowledge base for Cloud Engineers, DevOps Engineers, Solutions Architects, and Software Engineers.**
 
@@ -8,7 +8,7 @@
 
 # 🚀 Overview
 
-The **AWS Cloud Engineering Handbook** is a comprehensive learning repository built to help engineers master Amazon Web Services through practical engineering concepts rather than memorizing documentation.
+The **AWS Cloud Handbook** is a comprehensive learning repository built to help engineers master Amazon Web Services through practical engineering concepts rather than memorizing documentation.
 
 This repository focuses on understanding how AWS works internally, why services exist, production best practices, real-world architectures, security, cost optimization, and interview preparation. Each section is designed to build a strong cloud engineering foundation that can be applied in real-world projects.
 
