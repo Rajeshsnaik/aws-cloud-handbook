@@ -46,7 +46,7 @@ Whether you're preparing for certifications, interviews, or building cloud-nativ
 | Folder                                              | Description                                                                   |
 | --------------------------------------------------- | ----------------------------------------------------------------------------- |
 | 📁 [01-cloud-fundamentals](./01-cloud-fundamentals) | Cloud computing fundamentals, architecture principles, and core concepts      |
-| 📁 [02-amazon-vpc](./02-VPC/)                       | Amazon VPC networking, subnets, routing, gateways, security, and connectivity |
+| 📁 [02-vpc](./02-VPC/)                              | Amazon VPC networking, subnets, routing, gateways, security, and connectivity |
 
 > Each folder contains detailed explanations, diagrams, real-world scenarios, interview questions, and hands-on examples related to its respective domain.
 
