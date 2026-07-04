@@ -48,8 +48,10 @@ Whether you're preparing for certifications, interviews, or building cloud-nativ
 | 📁 [01-cloud-fundamentals](./01-cloud-fundamentals) | Cloud computing fundamentals, architecture principles, and core concepts                                                                          |
 | 📁 [02-vpc](./02-VPC/)                              | Amazon VPC networking, subnets, routing, gateways, security, and connectivity                                                                     |
 | 📁 [03-iam](./03-IAM/)                              | AWS Identity and Access Management (IAM), users, groups, roles, policies, permissions, authentication, authorization, and security best practices |
+| 📁 [04-aws-cli](./04-AWS-CLI/)                      | AWS Command Line Interface (CLI), installation, configuration, profiles, commands, automation, and scripting                                      |
+| 📁 [05-ec2](./05-EC2/)                              | Amazon EC2 instances, networking, storage, security, key pairs, scaling, and instance management                                                  |
 
-> Each folder contains detailed explanations, diagrams, real-world scenarios, interview questions, and hands-on examples related to its respective domain...
+> Each folder contains detailed explanations, diagrams, real-world scenarios, interview questions, and hands-on examples related to its respective domain.
 
 ---
 
