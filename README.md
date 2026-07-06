@@ -43,14 +43,15 @@ Whether you're preparing for certifications, interviews, or building cloud-nativ
 
 # 📚 Repository Structure
 
-| Folder                                              | Description                                                                                                                                       |
-| --------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 📁 [01-cloud-fundamentals](./01-cloud-fundamentals) | Cloud computing fundamentals, architecture principles, and core concepts                                                                          |
-| 📁 [02-vpc](./02-VPC/)                              | Amazon VPC networking, subnets, routing, gateways, security, and connectivity                                                                     |
-| 📁 [03-iam](./03-IAM/)                              | AWS Identity and Access Management (IAM), users, groups, roles, policies, permissions, authentication, authorization, and security best practices |
-| 📁 [04-aws-cli](./04-AWS-CLI/)                      | AWS Command Line Interface (CLI), installation, configuration, profiles, commands, automation, and scripting                                      |
-| 📁 [05-ec2](./05-EC2/)                              | Amazon EC2 instances, networking, storage, security, key pairs, scaling, and instance management                                                  |
-| 📁 [06-lambda](./06-Lambda/)                        | AWS Lambda, serverless computing, event-driven architecture, triggers, functions, IAM roles, monitoring, versions, aliases, and integrations      |
+| Folder                                              | Description                                                                                                                                                                                          |
+| --------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 📁 [01-cloud-fundamentals](./01-cloud-fundamentals) | Cloud computing fundamentals, architecture principles, and core concepts                                                                                                                             |
+| 📁 [02-vpc](./02-VPC/)                              | Amazon VPC networking, subnets, routing, gateways, security, and connectivity                                                                                                                        |
+| 📁 [03-iam](./03-IAM/)                              | AWS Identity and Access Management (IAM), users, groups, roles, policies, permissions, authentication, authorization, and security best practices                                                    |
+| 📁 [04-aws-cli](./04-AWS-CLI/)                      | AWS Command Line Interface (CLI), installation, configuration, profiles, commands, automation, and scripting                                                                                         |
+| 📁 [05-ec2](./05-EC2/)                              | Amazon EC2 instances, networking, storage, security, key pairs, scaling, and instance management                                                                                                     |
+| 📁 [06-lambda](./06-Lambda/)                        | AWS Lambda, serverless computing, event-driven architecture, triggers, functions, IAM roles, monitoring, versions, aliases, and integrations                                                         |
+| 📁 [07-s3](./07-S3/)                                | Amazon S3 object storage, buckets, objects, storage classes, versioning, lifecycle rules, static website hosting, encryption, bucket policies, presigned URLs, replication, events, and integrations |
 
 > Each folder contains detailed explanations, diagrams, real-world scenarios, interview questions, and hands-on examples related to its respective domain.
 
