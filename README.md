@@ -52,6 +52,7 @@ Whether you're preparing for certifications, interviews, or building cloud-nativ
 | 📁 [05-ec2](./05-EC2/)                              | Amazon EC2 instances, networking, storage, security, key pairs, scaling, and instance management                                                                                                     |
 | 📁 [06-lambda](./06-Lambda/)                        | AWS Lambda, serverless computing, event-driven architecture, triggers, functions, IAM roles, monitoring, versions, aliases, and integrations                                                         |
 | 📁 [07-s3](./07-S3/)                                | Amazon S3 object storage, buckets, objects, storage classes, versioning, lifecycle rules, static website hosting, encryption, bucket policies, presigned URLs, replication, events, and integrations |
+| 📁 [08-Databases](./08-AWS-Databases/)              | All available databases in AWS inshort way covered here.                                                                                                                                             |
 
 > Each folder contains detailed explanations, diagrams, real-world scenarios, interview questions, and hands-on examples related to its respective domain.
 
