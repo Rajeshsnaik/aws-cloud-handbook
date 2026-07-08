@@ -1,8 +1,6 @@
-```md
 # 🔵 Amazon DynamoDB
 
-![AWS](./aws-dynamodb.png)
-```
+![AWS DynamoDB](./aws-dynamodb.png)
 
 **Amazon DynamoDB** is a **fully managed, serverless NoSQL database service** provided by AWS. It is designed to deliver **single-digit millisecond latency** at any scale while automatically handling infrastructure management, scaling, backups, and replication.
 
