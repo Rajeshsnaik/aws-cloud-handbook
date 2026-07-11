@@ -59,6 +59,8 @@ Whether you're preparing for certifications, interviews, or building cloud-nativ
 
 | 📁 [11-Load-Balancer](./11-Load-Balancer/) | AWS Elastic Load Balancing (ELB), Application Load Balancer (ALB), Network Load Balancer (NLB), Gateway Load Balancer (GWLB), Layer 4 vs Layer 7, listeners, target groups, health checks, routing, SSL/TLS termination, sticky sessions, Auto Scaling integration, cross-zone load balancing, security groups, monitoring, high availability, demos, best practices, and interview questions |
 
+| 📁 [12-EBS](./12-EBS/) | Amazon Elastic Block Store (EBS), block storage, EBS volume types (gp3, gp2, io1, io2, st1, sc1), volume creation, attachment and detachment, volume resizing, snapshots, snapshot restore, cross-region snapshot copy, encryption with AWS KMS, Delete on Termination, lifecycle management, Recycle Bin, mounting volumes in Linux, monitoring, best practices, demos, and interview questions |
+
 > Each folder contains detailed explanations, diagrams, real-world scenarios, interview questions, and hands-on examples related to its respective domain.
 
 ---
