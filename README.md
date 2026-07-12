@@ -61,6 +61,8 @@ Whether you're preparing for certifications, interviews, or building cloud-nativ
 
 | 📁 **[13-Route-53](./13-Route-53/)** | Amazon Route 53 DNS service, domain registration, hosted zones, DNS records (A, AAAA, CNAME, MX, TXT, NS, PTR, SRV, CAA, Alias), public and private hosted zones, routing policies (Simple, Weighted, Latency, Failover, Geolocation, Geoproximity, Multi-Value), health checks, DNS failover, traffic flow, domain transfer, Route 53 Resolver, hybrid DNS, DNSSEC, integrations with ELB, CloudFront, S3, API Gateway, best practices, real-world architectures, demos, and interview questions. |
 
+| 📁 **[14-CloudFront](./14-CloudFront/)** | Amazon CloudFront Content Delivery Network (CDN), edge locations, distributions, origins, cache behaviors, caching strategies, TTL, cache invalidation, Origin Access Control (OAC), Origin Access Identity (OAI), signed URLs and signed cookies, custom domains, SSL/TLS with ACM, AWS WAF integration, Lambda@Edge, CloudFront Functions, geo restriction, origin failover, compression, logging, monitoring, security, performance optimization, cost optimization, real-world architectures, demos, best practices, and interview questions. |
+
 > Each folder contains detailed explanations, diagrams, real-world scenarios, interview questions, and hands-on examples related to its respective domain.
 
 ---
