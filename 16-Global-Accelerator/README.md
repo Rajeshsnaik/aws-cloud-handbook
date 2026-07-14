@@ -435,11 +435,8 @@ Benefits:
 - Performance testing
 - Easy migration between resources
 
-`````
-
 ---
 
-````markdown
 # 🔵 Supported Endpoints
 
 AWS Global Accelerator supports several AWS resources as application endpoints.
@@ -903,7 +900,6 @@ CloudFront, Route 53, and Global Accelerator each serve different purposes.
 - **Global Accelerator** improves network performance by routing traffic over the AWS global backbone using Static Anycast IP addresses.
 
 In many production architectures, these services are used together to deliver fast, reliable, and highly available applications worldwide.
-`````
 
 ---
 
