@@ -62,7 +62,7 @@ Whether you're preparing for certifications, interviews, or building cloud-nativ
 | 📁 **[15-Amplify](./15-Amplify/)**                       | AWS Amplify for hosting, CI/CD, frontend deployment, authentication, backend integration, and full-stack apps.                                                        |
 | 📁 **[16-Global-Accelerator](./16-Global-Accelerator/)** | AWS Global Accelerator, static IPs, traffic routing, health checks, global performance, and high availability.                                                        |
 | 📁 **[17-API-Gateway](./17-API-Gateway/)**               | Amazon API Gateway for creating, securing, managing, and monitoring REST APIs, HTTP APIs, WebSocket APIs, integrations, throttling, authorization, and microservices. |
-| 📁 **[18-CloudWatch](./18-CloudWatch/)**                 | Amazon CloudWatch for monitoring AWS resources, metrics, logs, alarms, dashboards, events, application insights, and observability across cloud infrastructure.       |
+| 📁 **[18-CloudWatch](./18-Cloud-Watch/)**                | Amazon CloudWatch for monitoring AWS resources, metrics, logs, alarms, dashboards, events, application insights, and observability across cloud infrastructure.       |
 
 > Each folder includes **concepts, architecture diagrams, hands-on demos, real-world use cases, best practices, and interview questions** to help you master AWS Cloud Engineering.
 
