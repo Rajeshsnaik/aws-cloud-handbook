@@ -63,7 +63,9 @@ Whether you're preparing for certifications, interviews, or building cloud-nativ
 | 📁 **[16-Global-Accelerator](./16-Global-Accelerator/)** | AWS Global Accelerator, static IPs, traffic routing, health checks, global performance, and high availability.                                                                                              |
 | 📁 **[17-API-Gateway](./17-API-Gateway/)**               | Amazon API Gateway for creating, securing, managing, and monitoring REST APIs, HTTP APIs, WebSocket APIs, integrations, throttling, authorization, and microservices.                                       |
 | 📁 **[18-CloudWatch](./18-Cloud-Watch/)**                | Amazon CloudWatch for monitoring AWS resources, metrics, logs, alarms, dashboards, events, application insights, and observability across cloud infrastructure.                                             |
-| 📁 **[19-Secrets-Manager](./19-Secrets-Manager/)**       | AWS Secrets Manager for securely storing, managing, rotating, and retrieving secrets such as database credentials, API keys, passwords, authentication tokens, and application secrets across AWS services. |
+| 📁 **[19-Secrets-Manager](./19-Secret-Manager/)**        | AWS Secrets Manager for securely storing, managing, rotating, and retrieving secrets such as database credentials, API keys, passwords, authentication tokens, and application secrets across AWS services. |
+| 📁 **[20-Session-Manager](./20-Session-Manager/)**       | AWS Systems Manager Session Manager for securely accessing EC2 instances without SSH, RDP, public IP addresses, or key pairs using IAM-based access and the SSM Agent.                                      |
+| 📁 **[21-Parameter-Store](./21-Parameter-Store/)**       | AWS Systems Manager Parameter Store for securely storing, organizing, encrypting, versioning, and retrieving configuration data, environment variables, and application secrets using AWS KMS.              |
 
 > Each folder includes **concepts, architecture diagrams, hands-on demos, real-world use cases, best practices, and interview questions** to help you master AWS Cloud Engineering.
 
