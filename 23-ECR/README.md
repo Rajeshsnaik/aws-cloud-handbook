@@ -1,6 +1,6 @@
 # 🔵 Introduction to Amazon ECR
 
-![aws](/aws-cloud.png)
+![aws](./ecr.png)
 
 As applications become more containerized, managing Docker images efficiently becomes an important part of modern software development and DevOps. Developers need a secure and reliable way to store, manage, version, and share container images across different environments.
 
