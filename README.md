@@ -66,6 +66,8 @@ Whether you're preparing for certifications, interviews, or building cloud-nativ
 | 📁 **[19-Secrets-Manager](./19-Secret-Manager/)**        | AWS Secrets Manager for securely storing, managing, rotating, and retrieving secrets such as database credentials, API keys, passwords, authentication tokens, and application secrets across AWS services. |
 | 📁 **[20-Session-Manager](./20-Session-Manager/)**       | AWS Systems Manager Session Manager for securely accessing EC2 instances without SSH, RDP, public IP addresses, or key pairs using IAM-based access and the SSM Agent.                                      |
 | 📁 **[21-Parameter-Store](./21-Parameter-Store/)**       | AWS Systems Manager Parameter Store for securely storing, organizing, encrypting, versioning, and retrieving configuration data, environment variables, and application secrets using AWS KMS.              |
+| 📁 **[22-AWS-Config](./22-Config/)**                     | AWS Config for continuously recording, monitoring, tracking, and evaluating AWS resource configurations, compliance, configuration history, governance, and security using managed and custom rules.        |
+| 📁 **[23-Amazon-ECR](./23-ECR/)**                        | Amazon Elastic Container Registry (ECR) for securely storing, managing, scanning, versioning, and sharing Docker container images with seamless integration across AWS container services.                  |
 
 > Each folder includes **concepts, architecture diagrams, hands-on demos, real-world use cases, best practices, and interview questions** to help you master AWS Cloud Engineering.
 
