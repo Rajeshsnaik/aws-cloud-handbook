@@ -68,6 +68,7 @@ Whether you're preparing for certifications, interviews, or building cloud-nativ
 | 📁 **[21-Parameter-Store](./21-Parameter-Store/)**       | AWS Systems Manager Parameter Store for securely storing, organizing, encrypting, versioning, and retrieving configuration data, environment variables, and application secrets using AWS KMS.              |
 | 📁 **[22-AWS-Config](./22-Config/)**                     | AWS Config for continuously recording, monitoring, tracking, and evaluating AWS resource configurations, compliance, configuration history, governance, and security using managed and custom rules.        |
 | 📁 **[23-Amazon-ECR](./23-ECR/)**                        | Amazon Elastic Container Registry (ECR) for securely storing, managing, scanning, versioning, and sharing Docker container images with seamless integration across AWS container services.                  |
+| 📁 **[24-Amazon-ECS](./24-ECS/)**                        | Amazon Elastic Container Service (ECS) for deploying, managing, scaling, and running Docker containerized applications on AWS using EC2 or AWS Fargate with seamless integration across AWS services.       |
 
 > Each folder includes **concepts, architecture diagrams, hands-on demos, real-world use cases, best practices, and interview questions** to help you master AWS Cloud Engineering.
 
